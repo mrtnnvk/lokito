@@ -1,0 +1,42 @@
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+
+# Env soubory — nikdy do gitu!
+web/.env.local
+web/.env*.local
+.env
+.env.*
+
+# Python
+pipeline/__pycache__/
+pipeline/*.pyc
+pipeline/.venv/
+pipeline/venv/
+
+# Supabase CLI
+supabase/.branches/
+supabase/.temp/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Lokální data (stahovaná za běhu)
+pipeline/data/raw/
+pipeline/data/msmt_rejstrik_2025.json
+pipeline/data/vrejstrik-po.xml.gz
+pipeline/data/msmt_rejstrik.xml
+
+# Claude Code — lokální nastavení s credentials
+.claude/settings.local.json
+
+# Vercel build artifacts
+.vercel/

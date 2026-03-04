@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-03-03T18:49:08.703570",
+  "source_url": "https://lkod-ftp.msmt.gov.cz/00022985/e9c07729-877e-4af0-be4a-9d36e45806ae/rssz-cela-cr-2025-09-30.jsonld",
+  "data_version": "msmt-2025-09",
+  "note": "pocet_zaku není dostupný z rejstříku; přidán v V1 z MŠMT výkonových dat",
+  "schools": {
+    "600041077": {
+      "school_id": "zs-solidarita-brigadniku",
+      "uplny_nazev": "Základní škola Solidarita, Praha 10, Brigádníků 510/14, příspěvková organizace",
+      "kapacita": 610,
+      "pocet_zaku": null
+    },
+    "600041085": {
+      "school_id": "zs-olesska",
+      "uplny_nazev": "Základní škola, Praha 10, Olešská 2222/18, příspěvková organizace",
+      "kapacita": 690,
+      "pocet_zaku": null
+    },
+    "600041093": {
+      "school_id": "zs-karla-capka-kodanska",
+      "uplny_nazev": "Základní škola Karla Čapka, Praha 10, Kodaňská 658/16, příspěvková organizace",
+      "kapacita": 594,
+      "pocet_zaku": null
+    },
+    "600041107": {
+      "school_id": "zs-hostynska",
+      "uplny_nazev": "Základní škola, Praha 10, Hostýnská 2100/2, příspěvková organizace",
+      "kapacita": 750,
+      "pocet_zaku": null
+    },
+    "600041115": {
+      "school_id": "zs-v-rybnickach",
+      "uplny_nazev": "Základní škola, Praha 10, V Rybníčkách 1980/31, příspěvková organizace",
+      "kapacita": 660,
+      "pocet_zaku": null
+    },
+    "600041123": {
+      "school_id": "zs-svehlova",
+      "uplny_nazev": "Základní škola, Praha 10, Švehlova 2900/12, příspěvková organizace",
+      "kapacita": 630,
+      "pocet_zaku": null
+    },
+    "600041140": {
+      "school_id": "zs-jakutska",
+      "uplny_nazev": "Základní škola, Praha 10, Jakutská 1210/2, příspěvková organizace",
+      "kapacita": 585,
+      "pocet_zaku": null
+    },
+    "600041158": {
+      "school_id": "zs-eden-vladivostocka",
+      "uplny_nazev": "Základní škola Eden, Praha 10, Vladivostocká 1035/6, příspěvková organizace",
+      "kapacita": 650,
+      "pocet_zaku": null
+    },
+    "600041166": {
+      "school_id": "zs-u-rohacovych-kasaren",
+      "uplny_nazev": "Základní škola, Praha 10, U Roháčových kasáren 1381/19, příspěvková organizace",
+      "kapacita": 620,
+      "pocet_zaku": null
+    },
+    "600041182": {
+      "school_id": "zs-u-vrsovickeho-nadrazi",
+      "uplny_nazev": "Základní škola, Praha 10, U Vršovického nádraží 950/1, příspěvková organizace",
+      "kapacita": 490,
+      "pocet_zaku": null
+    },
+    "600041191": {
+      "school_id": "zs-nad-vodovodem",
+      "uplny_nazev": "Základní škola, Praha 10, Nad Vodovodem 460/81, příspěvková organizace",
+      "kapacita": 630,
+      "pocet_zaku": null
+    },
+    "600041204": {
+      "school_id": "zs-brectanova",
+      "uplny_nazev": "Základní škola, Praha 10, Břečťanová 2919/6, příspěvková organizace",
+      "kapacita": 638,
+      "pocet_zaku": null
+    },
+    "600041212": {
+      "school_id": "zs-gutova",
+      "uplny_nazev": "Základní škola, Praha 10, Gutova 1987/39, příspěvková organizace",
+      "kapacita": 720,
+      "pocet_zaku": null
+    },
+    "691019061": {
+      "school_id": "zs-v-olsinach",
+      "uplny_nazev": "Základní škola V Olšinách, Praha 10, příspěvková organizace",
+      "kapacita": 175,
+      "pocet_zaku": null
+    }
+  }
+}

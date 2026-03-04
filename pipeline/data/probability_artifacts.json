@@ -1,0 +1,300 @@
+{
+  "model_version": "v0.1",
+  "data_version": "msmt-2025-09",
+  "computed_at": "2026-03-03T17:49:15.863015+00:00",
+  "mode": "v0-static",
+  "confidence_note": "Nízká spolehlivost: odhad využití 85%, bez historických zápisových dat. Slouží jako orientační informace, není právním nárokem.",
+  "schools": {
+    "zs-eden-vladivostocka": {
+      "school_id": "zs-eden-vladivostocka",
+      "redizo": "600041158",
+      "kapacita": 650,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 552,
+      "free_spots_proxy": 98,
+      "demand_age6": 76,
+      "pressure_index": 0.78,
+      "score": 68,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-karla-capka-kodanska": {
+      "school_id": "zs-karla-capka-kodanska",
+      "redizo": "600041093",
+      "kapacita": 594,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 505,
+      "free_spots_proxy": 89,
+      "demand_age6": 76,
+      "pressure_index": 0.859,
+      "score": 65,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-solidarita-brigadniku": {
+      "school_id": "zs-solidarita-brigadniku",
+      "redizo": "600041077",
+      "kapacita": 610,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 518,
+      "free_spots_proxy": 92,
+      "demand_age6": 76,
+      "pressure_index": 0.831,
+      "score": 66,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-brectanova": {
+      "school_id": "zs-brectanova",
+      "redizo": "600041204",
+      "kapacita": 638,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 542,
+      "free_spots_proxy": 96,
+      "demand_age6": 76,
+      "pressure_index": 0.796,
+      "score": 68,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-gutova": {
+      "school_id": "zs-gutova",
+      "redizo": "600041212",
+      "kapacita": 720,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 612,
+      "free_spots_proxy": 108,
+      "demand_age6": 76,
+      "pressure_index": 0.708,
+      "score": 71,
+      "band": "high",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-hostynska": {
+      "school_id": "zs-hostynska",
+      "redizo": "600041107",
+      "kapacita": 750,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 638,
+      "free_spots_proxy": 112,
+      "demand_age6": 76,
+      "pressure_index": 0.682,
+      "score": 72,
+      "band": "high",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-jakutska": {
+      "school_id": "zs-jakutska",
+      "redizo": "600041140",
+      "kapacita": 585,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 497,
+      "free_spots_proxy": 88,
+      "demand_age6": 76,
+      "pressure_index": 0.869,
+      "score": 65,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-nad-vodovodem": {
+      "school_id": "zs-nad-vodovodem",
+      "redizo": "600041191",
+      "kapacita": 630,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 536,
+      "free_spots_proxy": 94,
+      "demand_age6": 76,
+      "pressure_index": 0.813,
+      "score": 67,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-olesska": {
+      "school_id": "zs-olesska",
+      "redizo": "600041085",
+      "kapacita": 690,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 586,
+      "free_spots_proxy": 104,
+      "demand_age6": 76,
+      "pressure_index": 0.735,
+      "score": 70,
+      "band": "high",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-u-rohacovych-kasaren": {
+      "school_id": "zs-u-rohacovych-kasaren",
+      "redizo": "600041166",
+      "kapacita": 620,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 527,
+      "free_spots_proxy": 93,
+      "demand_age6": 76,
+      "pressure_index": 0.822,
+      "score": 67,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-u-vrsovickeho-nadrazi": {
+      "school_id": "zs-u-vrsovickeho-nadrazi",
+      "redizo": "600041182",
+      "kapacita": 490,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 416,
+      "free_spots_proxy": 74,
+      "demand_age6": 76,
+      "pressure_index": 1.033,
+      "score": 58,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Odhad vychází z kapacity školy dle MŠMT rejstříku",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-v-olsinach": {
+      "school_id": "zs-v-olsinach",
+      "redizo": "691019061",
+      "kapacita": 175,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 149,
+      "free_spots_proxy": 26,
+      "demand_age6": 76,
+      "pressure_index": 2.94,
+      "score": 5,
+      "band": "low",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má podprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-v-rybnickach": {
+      "school_id": "zs-v-rybnickach",
+      "redizo": "600041115",
+      "kapacita": 660,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 561,
+      "free_spots_proxy": 99,
+      "demand_age6": 76,
+      "pressure_index": 0.772,
+      "score": 69,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    },
+    "zs-svehlova": {
+      "school_id": "zs-svehlova",
+      "redizo": "600041123",
+      "kapacita": 630,
+      "kapacita_is_default": false,
+      "enrolled_estimate": 536,
+      "free_spots_proxy": 94,
+      "demand_age6": 76,
+      "pressure_index": 0.813,
+      "score": 67,
+      "band": "medium",
+      "confidence": "low",
+      "explain_static": [
+        "Škola má nadprůměrný počet volných míst (proxy odhad)",
+        "Škola má nadprůměrnou kapacitu",
+        "Prostorová poptávka není zahrnutá (plánována ve V1)"
+      ],
+      "model_version": "v0.1",
+      "data_version": "msmt-2025-09",
+      "confidence_note": "V0: odhad využití kapacity 85%; poptávka uniformní P10/14 škol; bez historické kalibrace."
+    }
+  }
+}

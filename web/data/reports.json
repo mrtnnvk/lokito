@@ -1,0 +1,20 @@
+[
+  {
+    "id": "d5f1957e-19f4-44bd-a2ac-c9a73587bb1b",
+    "created_at": "2026-03-02T19:57:58.632Z",
+    "street": "Vladivostocká",
+    "number": 6,
+    "municipality": "praha-10",
+    "matched_school": "Základní škola Eden",
+    "note": "Test hlášení ze CI"
+  },
+  {
+    "id": "7b38ed67-ce7f-42b6-ac6f-90f7642b6c51",
+    "created_at": "2026-03-02T19:59:33.935Z",
+    "street": "Bulharská",
+    "number": 35,
+    "municipality": "praha-10",
+    "matched_school": "Základní škola, Praha 10, U Roháčových kasáren 19/1381",
+    "note": "Testovací hlášení z UI"
+  }
+]
